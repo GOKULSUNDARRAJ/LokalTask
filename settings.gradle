@@ -1,0 +1,2 @@
+rootProject.name = "LokalTask"
+include ':app'
